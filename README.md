@@ -1,2 +1,2 @@
 # mohamed
-python
+python print 
